@@ -285,6 +285,7 @@ form.addEventListener('submit', async (e) => {
     if (!res.ok || !data.ok) throw new Error(data.error || 'Göndərilmədi');
 
     setMsg('Göndərildi. Fayl: ' + data.fayl, 'ok');
+    showSuccessModal();
     form.reset();
     retakeBtn.click();
     fileHint.textContent = 'Fayl adı: —';
@@ -295,6 +296,18 @@ form.addEventListener('submit', async (e) => {
     refreshForm();
   }
 });
+
+/* ---------- göndərildi pop-upı ---------- */
+
+const successModal  = document.getElementById('successModal');
+const successOkBtn   = document.getElementById('successOkBtn');
+
+function showSuccessModal(){
+  successModal.hidden = false;
+  successOkBtn.focus();
+}
+
+successOkBtn.addEventListener('click', () => { successModal.hidden = true; });
 
 /* ---------- qaydalar pop-upı ---------- */
 
