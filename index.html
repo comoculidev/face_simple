@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="az">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Şəkil qeydiyyatı</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<main class="container"><section class="card">
+<h1>Şəkil qeydiyyatı</h1>
+<div class="camera-wrapper">
+<video id="camera" autoplay playsinline muted></video>
+<canvas id="canvas" hidden></canvas>
+<div class="face-guide"></div>
+<div id="cameraStatus" class="status">Kamera başladılır...</div>
+</div>
+<button id="captureBtn" class="primary" type="button" disabled>Şəkil çək</button>
+<div id="previewBox" class="preview-box" hidden>
+<h2>Çəkilmiş şəkil</h2><img id="preview" alt="Çəkilmiş şəkil">
+<button id="retakeBtn" class="secondary" type="button">Yenidən çək</button>
+</div>
+<form id="personForm" hidden>
+<label>Ad<input id="firstName" type="text" required></label>
+<label>Soyad<input id="lastName" type="text" required></label>
+<label>Struktur bölməsi<input id="department" type="text" required></label>
+<label>Vəzifə<input id="position" type="text" required></label>
+<button id="submitBtn" class="submit" type="submit" disabled>Göndər</button>
+</form>
+<div id="message" class="message" hidden></div>
+</section></main>
+<script src="script.js"></script>
+</body>
+</html>
