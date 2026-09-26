@@ -3798,5 +3798,781 @@
     "vezife": "Müəllim köməkcisi",
     "fayl": "Sudabe_Quliyeva_Mexanika-ve-masin-dizayni-kafedrasi_Muellim-komekcisi.jpeg",
     "tarix": "2026-09-25T08:26:48.039Z"
+  },
+  {
+    "ad": "Sevda",
+    "soyad": "Adgözəlova",
+    "struktur": "Mexanika və maşın dizaynı kafedrası",
+    "vezife": "Müəllim köməkcisi",
+    "fayl": "Sevda_Adgozelova_Mexanika-ve-masin-dizayni-kafedrasi_Muellim-komekcisi.jpeg",
+    "tarix": "2026-09-25T08:27:38.296Z"
+  },
+  {
+    "ad": "Elmxan",
+    "soyad": "Qurbanov",
+    "struktur": "Mühəndis fizikası və elektronika kafedrası",
+    "vezife": "Dossent",
+    "fayl": "Elmxan_Qurbanov_Muhendis-fizikasi-ve-elektronika-kafedrasi_Dossent.jpeg",
+    "tarix": "2026-09-25T08:27:47.454Z"
+  },
+  {
+    "ad": "Billurə",
+    "soyad": "Hümbətova",
+    "struktur": "Mühəndis fizikası və elektronika",
+    "vezife": "Müəllim köməkçisi",
+    "fayl": "Billure_Humbetova_Muhendis-fizikasi-ve-elektronika_Muellim-komekcisi.jpeg",
+    "tarix": "2026-09-25T08:30:20.890Z"
+  },
+  {
+    "ad": "Ağa",
+    "soyad": "Şıxseyidov",
+    "struktur": "Maşınqayırma texnologiyası kafedrası",
+    "vezife": "Dosent",
+    "fayl": "Aga_Sixseyidov_Masinqayirma-texnologiyasi-kafedrasi_Dosent.jpeg",
+    "tarix": "2026-09-25T08:37:20.068Z"
+  },
+  {
+    "ad": "Səmayə",
+    "soyad": "Bağırova",
+    "struktur": "Mexanika və maşın dizaynı",
+    "vezife": "Baş müəllim",
+    "fayl": "Semaye_Bagirova_Mexanika-ve-masin-dizayni_Bas-muellim.jpeg",
+    "tarix": "2026-09-25T08:42:12.253Z"
+  },
+  {
+    "ad": "Savalan",
+    "soyad": "Kərimov",
+    "struktur": "Mexanika və maşın dizaynı",
+    "vezife": "Dosent",
+    "fayl": "Savalan_Kerimov_Mexanika-ve-masin-dizayni_Dosent.jpeg",
+    "tarix": "2026-09-25T08:43:07.532Z"
+  },
+  {
+    "ad": "Məhbubə",
+    "soyad": "Bayramova",
+    "struktur": "Bir pəncərə",
+    "vezife": "Mütəxəssis",
+    "fayl": "Mehbube_Bayramova_Bir-pencere_Mutexessis.jpeg",
+    "tarix": "2026-09-25T08:43:54.409Z"
+  },
+  {
+    "ad": "Əzizağa",
+    "soyad": "Əzizov",
+    "struktur": "Mexanika və maşın dizaynı",
+    "vezife": "Dosent",
+    "fayl": "Ezizaga_Ezizov_Mexanika-ve-masin-dizayni_Dosent.jpeg",
+    "tarix": "2026-09-25T08:46:17.163Z"
+  },
+  {
+    "ad": "Qurban",
+    "soyad": "Qocayev",
+    "struktur": "Nəqliyyat texnikası və idarəetmə texnologiyaları",
+    "vezife": "Baş müəllim",
+    "fayl": "Qurban_Qocayev_Neqliyyat-texnikasi-ve-idareetme-texnologiyalari_Bas-muellim.jpeg",
+    "tarix": "2026-09-25T08:48:45.613Z"
+  },
+  {
+    "ad": "Mürşüd",
+    "soyad": "Mehdiyev",
+    "struktur": "Sənaye İqtisadiyyatı və Menecment fakültəsi",
+    "vezife": "Dekan müavini",
+    "fayl": "Mursud_Mehdiyev_Senaye-Iqtisadiyyati-ve-Menecment-fakultesi_Dekan-muavini.jpeg",
+    "tarix": "2026-09-25T08:56:16.141Z"
+  },
+  {
+    "ad": "İradə",
+    "soyad": "İbrahimova",
+    "struktur": "Mühəndis fizikası və elektronika",
+    "vezife": "Baş müəllim",
+    "fayl": "Irade_Ibrahimova_Muhendis-fizikasi-ve-elektronika_Bas-muellim.jpeg",
+    "tarix": "2026-09-25T08:56:28.485Z"
+  },
+  {
+    "ad": "Hikmət",
+    "soyad": "Əliyev",
+    "struktur": "Elektrotexnika",
+    "vezife": "kaf. müdiri, f.r.e.n., dosent",
+    "fayl": "Hikmet_Eliyev_Elektrotexnika_kaf-mudiri-fren-dosent.jpeg",
+    "tarix": "2026-09-25T08:58:20.367Z"
+  },
+  {
+    "ad": "Şəbnəm",
+    "soyad": "İsmayılova",
+    "struktur": "Mexanika və maşın dizaynı",
+    "vezife": "Baş müəllim",
+    "fayl": "Sebnem_Ismayilova_Mexanika-ve-masin-dizayni_Bas-muellim.jpeg",
+    "tarix": "2026-09-25T09:00:03.115Z"
+  },
+  {
+    "ad": "Sevinc",
+    "soyad": "Qarayeva",
+    "struktur": "Bir pəncərə",
+    "vezife": "Mutəxəssis",
+    "fayl": "Sevinc_Qarayeva_Bir-pencere_Mutexessis.jpeg",
+    "tarix": "2026-09-25T09:03:55.487Z"
+  },
+  {
+    "ad": "Sürəyya",
+    "soyad": "Məmmədova",
+    "struktur": "Mühəndis fizikası və elektronika",
+    "vezife": "Dosent",
+    "fayl": "Sureyya_Memmedova_Muhendis-fizikasi-ve-elektronika_Dosent.jpeg",
+    "tarix": "2026-09-25T09:07:05.461Z"
+  },
+  {
+    "ad": "inci",
+    "soyad": "abdullayeva",
+    "struktur": "kibertəhlükəsizlik kafedrası",
+    "vezife": "0.5 ştat müəllim",
+    "fayl": "inci_abdullayeva_kibertehlukesizlik-kafedrasi_05-stat-muellim.jpeg",
+    "tarix": "2026-09-25T09:08:28.861Z"
+  },
+  {
+    "ad": "Xuraman",
+    "soyad": "Qurbanova",
+    "struktur": "Humanitar fənlər",
+    "vezife": "kargüzar",
+    "fayl": "Xuraman_Qurbanova_Humanitar-fenler_karguzar.jpeg",
+    "tarix": "2026-09-25T09:08:50.069Z"
+  },
+  {
+    "ad": "Şahnaz",
+    "soyad": "Quliyeva",
+    "struktur": "Bir pəncərə",
+    "vezife": "Mütəxəsis",
+    "fayl": "Sahnaz_Quliyeva_Bir-pencere_Mutexesis.jpeg",
+    "tarix": "2026-09-25T09:10:16.736Z"
+  },
+  {
+    "ad": "Səkinəxanım",
+    "soyad": "İsayeva",
+    "struktur": "Mexanika və Maşın dizaynı",
+    "vezife": "Baş müəllim",
+    "fayl": "Sekinexanim_Isayeva_Mexanika-ve-Masin-dizayni_Bas-muellim.jpeg",
+    "tarix": "2026-09-25T09:10:49.746Z"
+  },
+  {
+    "ad": "Natavan",
+    "soyad": "Sultanova",
+    "struktur": "Mexanika və Maşın dizaynı",
+    "vezife": "Müəllim köməkçisi",
+    "fayl": "Natavan_Sultanova_Mexanika-ve-Masin-dizayni_Muellim-komekcisi.jpeg",
+    "tarix": "2026-09-25T09:11:49.854Z"
+  },
+  {
+    "ad": "Cavahir",
+    "soyad": "Mürsəlova",
+    "struktur": "Kitabxana İnformasiya Mərkəzi",
+    "vezife": "Rəqəmsallaşma mütəxəssisi",
+    "fayl": "Cavahir_Murselova_Kitabxana-Informasiya-Merkezi_Reqemsallasma-mutexessisi.jpeg",
+    "tarix": "2026-09-25T09:13:27.869Z"
+  },
+  {
+    "ad": "Amil",
+    "soyad": "Ömərov",
+    "struktur": "Sənaye İqtisadiyyatı və Menecment",
+    "vezife": "Akademik məsləhətçi (Tyutor)",
+    "fayl": "Amil_Omerov_Senaye-Iqtisadiyyati-ve-Menecment_Akademik-meslehetci-Tyutor.jpeg",
+    "tarix": "2026-09-25T09:17:35.258Z"
+  },
+  {
+    "ad": "Aqil",
+    "soyad": "Babayev",
+    "struktur": "Metallurgiya və materiallar texnologiya",
+    "vezife": "Dosent",
+    "fayl": "Aqil_Babayev_Metallurgiya-ve-materiallar-texnologiya_Dosent.jpeg",
+    "tarix": "2026-09-25T09:23:54.237Z"
+  },
+  {
+    "ad": "Zənurə",
+    "soyad": "Namazova",
+    "struktur": "Metallurgiya və materiallar texnologiyası",
+    "vezife": "Dosent",
+    "fayl": "Zenure_Namazova_Metallurgiya-ve-materiallar-texnologiyasi_Dosent.jpeg",
+    "tarix": "2026-09-25T09:29:17.556Z"
+  },
+  {
+    "ad": "Yaqub",
+    "soyad": "Şərifov",
+    "struktur": "Mühəndis riyaziyyatı və süni intellekt kafedrası",
+    "vezife": "Professor",
+    "fayl": "Yaqub_Serifov_Muhendis-riyaziyyati-ve-suni-intellekt-kafedrasi_Professor.jpeg",
+    "tarix": "2026-09-25T09:32:35.755Z"
+  },
+  {
+    "ad": "Rəna",
+    "soyad": "Məmmədli",
+    "struktur": "Mühəndis fizikası və elektronika kafedrası",
+    "vezife": "Müəllim köməkçisi",
+    "fayl": "Rena_Memmedli_Muhendis-fizikasi-ve-elektronika-kafedrasi_Muellim-komekcisi.jpeg",
+    "tarix": "2026-09-25T09:35:15.303Z"
+  },
+  {
+    "ad": "Firudun",
+    "soyad": "Məmmədov",
+    "struktur": "Mühəndis Riyaziyyattı və Süni İntelekt",
+    "vezife": "Dosent",
+    "fayl": "Firudun_Memmedov_Muhendis-Riyaziyyatti-ve-Suni-Intelekt_Dosent.jpeg",
+    "tarix": "2026-09-25T09:42:59.019Z"
+  },
+  {
+    "ad": "Türkan",
+    "soyad": "Əmirova",
+    "struktur": "Kimya, texnologiya, təkrar emal və ekologiya",
+    "vezife": "Müəllim",
+    "fayl": "Turkan_Emirova_Kimya-texnologiya-tekrar-emal-ve-ekologiya_Muellim.jpeg",
+    "tarix": "2026-09-25T09:43:28.087Z"
+  },
+  {
+    "ad": "Fuad",
+    "soyad": "Gənbərov",
+    "struktur": "Biznesin idarə edilməsi kafedrası",
+    "vezife": "Professor",
+    "fayl": "Fuad_Genberov_Biznesin-idare-edilmesi-kafedrasi_Professor.jpeg",
+    "tarix": "2026-09-25T09:49:54.485Z"
+  },
+  {
+    "ad": "Famil",
+    "soyad": "Rüstəmov",
+    "struktur": "Rəqəmsal iqtisadiyyat və maliyyə texnologiyaları kafedrası",
+    "vezife": "dosent",
+    "fayl": "Famil_Rustemov_Reqemsal-iqtisadiyyat-ve-maliyye-texnologiyalari-kafedrasi_dosent.jpeg",
+    "tarix": "2026-09-25T09:50:40.364Z"
+  },
+  {
+    "ad": "Ramil",
+    "soyad": "Dadaşov",
+    "struktur": "Maşınqayırma texnologiyası kafedrası",
+    "vezife": "Baş müəllim",
+    "fayl": "Ramil_Dadasov_Masinqayirma-texnologiyasi-kafedrasi_Bas-muellim.jpeg",
+    "tarix": "2026-09-25T09:52:29.722Z"
+  },
+  {
+    "ad": "Əsəd",
+    "soyad": "Rüstəmov",
+    "struktur": "Müdafiə sistemləri və texnol",
+    "vezife": "Professor",
+    "fayl": "Esed_Rustemov_Mudafie-sistemleri-ve-texnol_Professor.jpeg",
+    "tarix": "2026-09-25T09:56:32.181Z"
+  },
+  {
+    "ad": "Sevinc",
+    "soyad": "Abdullayeva",
+    "struktur": "Təsərrüfat şöbəsi",
+    "vezife": "Operator",
+    "fayl": "Sevinc_Abdullayeva_Teserrufat-sobesi_Operator.jpeg",
+    "tarix": "2026-09-25T09:57:02.609Z"
+  },
+  {
+    "ad": "Əsəd",
+    "soyad": "Rüstəmov",
+    "struktur": "Müdafiə sistemləri və texnoloji inteqrasiya",
+    "vezife": "Professor",
+    "fayl": "Esed_Rustemov_Mudafie-sistemleri-ve-texnoloji-inteqrasiya_Professor.jpeg",
+    "tarix": "2026-09-25T09:57:40.128Z"
+  },
+  {
+    "ad": "Əsəd",
+    "soyad": "Rüstəmov",
+    "struktur": "Müdafiə sistemləri və texnoloji inteqrasiya",
+    "vezife": "Professor",
+    "fayl": "Esed_Rustemov_Mudafie-sistemleri-ve-texnoloji-inteqrasiya_Professor-2.jpeg",
+    "tarix": "2026-09-25T10:01:28.987Z"
+  },
+  {
+    "ad": "Cəmilə",
+    "soyad": "Abdurəhimova",
+    "struktur": "Tədris şöbəsi",
+    "vezife": "Menecer",
+    "fayl": "Cemile_Abdurehimova_Tedris-sobesi_Menecer.jpeg",
+    "tarix": "2026-09-25T10:02:05.295Z"
+  },
+  {
+    "ad": "Elnurə",
+    "soyad": "Cəfərova",
+    "struktur": "Tədris şöbəsi",
+    "vezife": "Menecer",
+    "fayl": "Elnure_Ceferova_Tedris-sobesi_Menecer.jpeg",
+    "tarix": "2026-09-25T10:02:08.113Z"
+  },
+  {
+    "ad": "Shafiqa",
+    "soyad": "Mehdiyeva",
+    "struktur": "Fizika kafedrasi",
+    "vezife": "Dosent",
+    "fayl": "Shafiqa_Mehdiyeva_Fizika-kafedrasi_Dosent.jpeg",
+    "tarix": "2026-09-25T10:02:47.674Z"
+  },
+  {
+    "ad": "Yalçın",
+    "soyad": "İsayev",
+    "struktur": "Müdafiyə sistemləri kafedrası",
+    "vezife": "Dosent",
+    "fayl": "Yalcin_Isayev_Mudafiye-sistemleri-kafedrasi_Dosent.jpeg",
+    "tarix": "2026-09-25T10:03:56.695Z"
+  },
+  {
+    "ad": "Ləman",
+    "soyad": "Zülfüqarova",
+    "struktur": "Sənaye mühəndisliyi və davamlı iqtisadiyyat",
+    "vezife": "Müəllim köməkçisi",
+    "fayl": "Leman_Zulfuqarova_Senaye-muhendisliyi-ve-davamli-iqtisadiyyat_Muellim-komekcisi.jpeg",
+    "tarix": "2026-09-25T10:04:40.941Z"
+  },
+  {
+    "ad": "Talib",
+    "soyad": "Əbilov",
+    "struktur": "Kitabxana İnformasiya Mərkəzi",
+    "vezife": "Proqramçı",
+    "fayl": "Talib_Ebilov_Kitabxana-Informasiya-Merkezi_Proqramci.jpeg",
+    "tarix": "2026-09-25T10:05:03.800Z"
+  },
+  {
+    "ad": "Ramilə",
+    "soyad": "Əhmədova",
+    "struktur": "Energetika fakültəsi",
+    "vezife": "Tyütor",
+    "fayl": "Ramile_Ehmedova_Energetika-fakultesi_Tyutor.jpeg",
+    "tarix": "2026-09-25T10:11:06.288Z"
+  },
+  {
+    "ad": "Nərmin",
+    "soyad": "Əliyeva",
+    "struktur": "Mexanika və maşın dizaynı kafedrası",
+    "vezife": "Müəllim köməkçisi",
+    "fayl": "Nermin_Eliyeva_Mexanika-ve-masin-dizayni-kafedrasi_Muellim-komekcisi.jpeg",
+    "tarix": "2026-09-25T10:22:57.415Z"
+  },
+  {
+    "ad": "Aytən",
+    "soyad": "Məmmədli",
+    "struktur": "Mühəndis riyaziyyatı və süni intellekt kafesrası",
+    "vezife": "Baş müəllim",
+    "fayl": "Ayten_Memmedli_Muhendis-riyaziyyati-ve-suni-intellekt-kafesrasi_Bas-muellim.jpeg",
+    "tarix": "2026-09-25T10:30:40.798Z"
+  },
+  {
+    "ad": "Aytəkin",
+    "soyad": "İbrahimova",
+    "struktur": "Kibertəhlükəsizlik kafedrası",
+    "vezife": "Müəllim",
+    "fayl": "Aytekin_Ibrahimova_Kibertehlukesizlik-kafedrasi_Muellim.jpeg",
+    "tarix": "2026-09-25T10:37:52.377Z"
+  },
+  {
+    "ad": "Rahid",
+    "soyad": "Nəzirov",
+    "struktur": "Texniki istismar",
+    "vezife": "Elektrik",
+    "fayl": "Rahid_Nezirov_Texniki-istismar_Elektrik.jpeg",
+    "tarix": "2026-09-25T10:38:37.843Z"
+  },
+  {
+    "ad": "Elmira",
+    "soyad": "Qasımova",
+    "struktur": "Mühəndis fizikası və elektronika",
+    "vezife": "Dosent",
+    "fayl": "Elmira_Qasimova_Muhendis-fizikasi-ve-elektronika_Dosent.jpeg",
+    "tarix": "2026-09-25T10:40:34.176Z"
+  },
+  {
+    "ad": "Günel",
+    "soyad": "Məmmədova",
+    "struktur": "Beynəlxalq əməkdaşlıq şöbəsi, əcnəbi tələbə qəbulu sektoru",
+    "vezife": "Baş mütəxəssia",
+    "fayl": "Gunel_Memmedova_Beynelxalq-emekdasliq-sobesi-ecnebi-telebe-qebulu-sektoru_Bas-mutexessia.jpeg",
+    "tarix": "2026-09-25T10:42:19.739Z"
+  },
+  {
+    "ad": "Türkan",
+    "soyad": "Əhmədova",
+    "struktur": "Sənaye mühəndisliyi və davamlı iqtisadiyyat",
+    "vezife": "Baş müəllim",
+    "fayl": "Turkan_Ehmedova_Senaye-muhendisliyi-ve-davamli-iqtisadiyyat_Bas-muellim.jpeg",
+    "tarix": "2026-09-25T10:44:02.976Z"
+  },
+  {
+    "ad": "Aytekin",
+    "soyad": "Xalilova",
+    "struktur": "Energetika fakultesi",
+    "vezife": "Mütəxəssis",
+    "fayl": "Aytekin_Xalilova_Energetika-fakultesi_Mutexessis.jpeg",
+    "tarix": "2026-09-25T10:50:17.987Z"
+  },
+  {
+    "ad": "Məzahir",
+    "soyad": "Qaraxanov",
+    "struktur": "Kimya texnologiya təkrar emal və ekologiya",
+    "vezife": "Baş müəllim",
+    "fayl": "Mezahir_Qaraxanov_Kimya-texnologiya-tekrar-emal-ve-ekologiya_Bas-muellim.jpeg",
+    "tarix": "2026-09-25T10:53:24.385Z"
+  },
+  {
+    "ad": "Lətif",
+    "soyad": "Məmmədov",
+    "struktur": "Elektrotexnika",
+    "vezife": "Dossent",
+    "fayl": "Letif_Memmedov_Elektrotexnika_Dossent.jpeg",
+    "tarix": "2026-09-25T10:54:20.000Z"
+  },
+  {
+    "ad": "Gülab",
+    "soyad": "Bayramov",
+    "struktur": "Texniki istismar",
+    "vezife": "Usta",
+    "fayl": "Gulab_Bayramov_Texniki-istismar_Usta.jpeg",
+    "tarix": "2026-09-25T10:56:25.907Z"
+  },
+  {
+    "ad": "Muxtar",
+    "soyad": "Əzizullayev",
+    "struktur": "Müdafiə sistemləri və texnoloji inteqeasiya",
+    "vezife": "Assistent",
+    "fayl": "Muxtar_Ezizullayev_Mudafie-sistemleri-ve-texnoloji-inteqeasiya_Assistent.jpeg",
+    "tarix": "2026-09-25T11:00:55.543Z"
+  },
+  {
+    "ad": "Araz",
+    "soyad": "Rəhimov",
+    "struktur": "Maliyyə və mühasibat departamenti",
+    "vezife": "Anbardar",
+    "fayl": "Araz_Rehimov_Maliyye-ve-muhasibat-departamenti_Anbardar.jpeg",
+    "tarix": "2026-09-25T11:03:04.619Z"
+  },
+  {
+    "ad": "Günay",
+    "soyad": "Xasməmmədova",
+    "struktur": "Mühəndis fizikası və elektronika",
+    "vezife": "Dosent",
+    "fayl": "Gunay_Xasmemmedova_Muhendis-fizikasi-ve-elektronika_Dosent.jpeg",
+    "tarix": "2026-09-25T11:07:07.243Z"
+  },
+  {
+    "ad": "Emil",
+    "soyad": "Abbasov",
+    "struktur": "Sənaye mühəndisliyi və davamlı iqtisadiyyat",
+    "vezife": "Doktorant,müəllim",
+    "fayl": "Emil_Abbasov_Senaye-muhendisliyi-ve-davamli-iqtisadiyyat_Doktorantmuellim.jpeg",
+    "tarix": "2026-09-25T11:15:15.462Z"
+  },
+  {
+    "ad": "Azət",
+    "soyad": "Bağırova",
+    "struktur": "Sənaye mühəndisliyi və davamlı iqtisadiyyat",
+    "vezife": "Dosent.",
+    "fayl": "Azet_Bagirova_Senaye-muhendisliyi-ve-davamli-iqtisadiyyat_Dosent.jpeg",
+    "tarix": "2026-09-25T11:16:20.147Z"
+  },
+  {
+    "ad": "Kənan",
+    "soyad": "Rüstəmov",
+    "struktur": "Maliyyə və mühasibat departamenti",
+    "vezife": "Anbar müdiri",
+    "fayl": "Kenan_Rustemov_Maliyye-ve-muhasibat-departamenti_Anbar-mudiri.jpeg",
+    "tarix": "2026-09-25T11:23:50.301Z"
+  },
+  {
+    "ad": "Afaq",
+    "soyad": "Məmmədova",
+    "struktur": "Mexatronika və Proseslərin avtomatlaşdırılması",
+    "vezife": "Dosent müəllim",
+    "fayl": "Afaq_Memmedova_Mexatronika-ve-Proseslerin-avtomatlasdirilmasi_Dosent-muellim.jpeg",
+    "tarix": "2026-09-25T11:24:49.306Z"
+  },
+  {
+    "ad": "İlham",
+    "soyad": "Aslanzadə",
+    "struktur": "Sənaye mühəndisliyi və davamlı iqtisadiyyat",
+    "vezife": "Professor",
+    "fayl": "Ilham_Aslanzade_Senaye-muhendisliyi-ve-davamli-iqtisadiyyat_Professor.jpeg",
+    "tarix": "2026-09-25T11:24:50.492Z"
+  },
+  {
+    "ad": "Əbilqani",
+    "soyad": "Əliyev",
+    "struktur": "Mexanika və maşın dizaynı",
+    "vezife": "Dosent",
+    "fayl": "Ebilqani_Eliyev_Mexanika-ve-masin-dizayni_Dosent.jpeg",
+    "tarix": "2026-09-25T11:37:05.516Z"
+  },
+  {
+    "ad": "İftixar",
+    "soyad": "Çələbi",
+    "struktur": "Mexatronika və proseslərin avtomatlaşdırılması",
+    "vezife": "Tədqiqatçı professor",
+    "fayl": "Iftixar_Celebi_Mexatronika-ve-proseslerin-avtomatlasdirilmasi_Tedqiqatci-professor.jpeg",
+    "tarix": "2026-09-25T11:38:27.831Z"
+  },
+  {
+    "ad": "Aysel",
+    "soyad": "İusubova",
+    "struktur": "Xarici Dillər kafedrası",
+    "vezife": "Müəllim",
+    "fayl": "Aysel_Iusubova_Xarici-Diller-kafedrasi_Muellim.jpeg",
+    "tarix": "2026-09-25T11:44:04.136Z"
+  },
+  {
+    "ad": "Mənzər",
+    "soyad": "Məmmədli",
+    "struktur": "Beynəlxalq əlaqələr şöbəsi",
+    "vezife": "Beynəlxalq əməkdaşlıq və mübadilə sektorunun müdiri",
+    "fayl": "Menzer_Memmedli_Beynelxalq-elaqeler-sobesi_Beynelxalq-emekdasliq-ve-mubadile-sektorunun-mudiri.jpeg",
+    "tarix": "2026-09-25T11:49:03.829Z"
+  },
+  {
+    "ad": "Sevil",
+    "soyad": "Rüstəmova",
+    "struktur": "Kimya texnologiya təkrar emal  və ekologiya",
+    "vezife": "Baş müəllim",
+    "fayl": "Sevil_Rustemova_Kimya-texnologiya-tekrar-emal-ve-ekologiya_Bas-muellim.jpeg",
+    "tarix": "2026-09-25T11:51:04.141Z"
+  },
+  {
+    "ad": "Aysel",
+    "soyad": "Bədəlova",
+    "struktur": "Beynəlxalq əlaqələr şöbəsi",
+    "vezife": "Beynəlxalq əməkdaşlıq və mübadilə sektorunun beynəlxalq əməkdaşlıq və mübadilə üzrə baş mütəxəssisi",
+    "fayl": "Aysel_Bedelova_Beynelxalq-elaqeler-sobesi_Beynelxalq-emekdasliq-ve-mubadile-sektorunun-beynelxalq-emekdasliq-ve-mubadile-uzre-bas-mutexessisi.jpeg",
+    "tarix": "2026-09-25T11:53:13.651Z"
+  },
+  {
+    "ad": "Sevinc",
+    "soyad": "Osmanova",
+    "struktur": "Mühəndis fizikası və elektronika",
+    "vezife": "Dosent",
+    "fayl": "Sevinc_Osmanova_Muhendis-fizikasi-ve-elektronika_Dosent.jpeg",
+    "tarix": "2026-09-25T11:53:43.967Z"
+  },
+  {
+    "ad": "Rəna",
+    "soyad": "Əliyeva",
+    "struktur": "Nəqliyyat logistikası və hərəkətin təhlükəsizliyi",
+    "vezife": "Kargüzar",
+    "fayl": "Rena_Eliyeva_Neqliyyat-logistikasi-ve-hereketin-tehlukesizliyi_Karguzar.jpeg",
+    "tarix": "2026-09-25T11:54:31.553Z"
+  },
+  {
+    "ad": "Babakişi",
+    "soyad": "Qaracayev",
+    "struktur": "Mühəndis fizikası və elektronika",
+    "vezife": "Dosent",
+    "fayl": "Babakisi_Qaracayev_Muhendis-fizikasi-ve-elektronika_Dosent.jpeg",
+    "tarix": "2026-09-25T12:00:58.580Z"
+  },
+  {
+    "ad": "Heyran",
+    "soyad": "Abbasova",
+    "struktur": "Maşınqayırma texnologiyası",
+    "vezife": "Dosent",
+    "fayl": "Heyran_Abbasova_Masinqayirma-texnologiyasi_Dosent.jpeg",
+    "tarix": "2026-09-25T12:07:32.954Z"
+  },
+  {
+    "ad": "Sevda",
+    "soyad": "Talışinskaya",
+    "struktur": "Tədrisin Rəqəmsal İdarə Edilməsi",
+    "vezife": "Qiymətləndirmə meneceri",
+    "fayl": "Sevda_Talisinskaya_Tedrisin-Reqemsal-Idare-Edilmesi_Qiymetlendirme-meneceri.jpeg",
+    "tarix": "2026-09-25T12:08:09.115Z"
+  },
+  {
+    "ad": "Elşən",
+    "soyad": "Həşimov",
+    "struktur": "Mexanika və maşın dizaynı",
+    "vezife": "Professor",
+    "fayl": "Elsen_Hesimov_Mexanika-ve-masin-dizayni_Professor.jpeg",
+    "tarix": "2026-09-25T12:23:35.247Z"
+  },
+  {
+    "ad": "Murad",
+    "soyad": "Ələsgərov",
+    "struktur": "İnfrasyrukturun idarə edilməsi departamentinin",
+    "vezife": "Baş mühəndisi",
+    "fayl": "Murad_Elesgerov_Infrasyrukturun-idare-edilmesi-departamentinin_Bas-muhendisi.jpeg",
+    "tarix": "2026-09-25T12:36:33.838Z"
+  },
+  {
+    "ad": "Asim",
+    "soyad": "Əliyev",
+    "struktur": "Təsərrüfat şöbəsi",
+    "vezife": "Müdir",
+    "fayl": "Asim_Eliyev_Teserrufat-sobesi_Mudir.jpeg",
+    "tarix": "2026-09-25T12:44:36.429Z"
+  },
+  {
+    "ad": "Yeganə",
+    "soyad": "Cəfərova",
+    "struktur": "Kitabxana İnformasiya Mərkəzi",
+    "vezife": "Metadata mütəxəssisi",
+    "fayl": "Yegane_Ceferova_Kitabxana-Informasiya-Merkezi_Metadata-mutexessisi.jpeg",
+    "tarix": "2026-09-25T12:46:09.002Z"
+  },
+  {
+    "ad": "Könül",
+    "soyad": "Hüseynzadə",
+    "struktur": "Mexanika və maşın dizaynı",
+    "vezife": "Baş müəllim",
+    "fayl": "Konul_Huseynzade_Mexanika-ve-masin-dizayni_Bas-muellim.jpeg",
+    "tarix": "2026-09-25T12:52:44.279Z"
+  },
+  {
+    "ad": "Nərgiz",
+    "soyad": "İsmayılova",
+    "struktur": "Tədqiqat İnkişaf və Reputasiya Departamenti",
+    "vezife": "Beynəlxalq tədqiqat əməkdaşlıqı üzrə koordinator",
+    "fayl": "Nergiz_Ismayilova_Tedqiqat-Inkisaf-ve-Reputasiya-Departamenti_Beynelxalq-tedqiqat-emekdasliqi-uzre-koordinator.jpeg",
+    "tarix": "2026-09-25T12:55:40.050Z"
+  },
+  {
+    "ad": "Ruxsarə",
+    "soyad": "Rüstəmova",
+    "struktur": "Müşavirlik heyəti",
+    "vezife": "Referent",
+    "fayl": "Ruxsare_Rustemova_Musavirlik-heyeti_Referent-2.jpeg",
+    "tarix": "2026-09-25T12:56:22.874Z"
+  },
+  {
+    "ad": "Abdurahman",
+    "soyad": "Vaqifli",
+    "struktur": "Mühəndis riyaziyyatı və Süni İntellekt kafedrası",
+    "vezife": "Baş Müəllim",
+    "fayl": "Abdurahman_Vaqifli_Muhendis-riyaziyyati-ve-Suni-Intellekt-kafedrasi_Bas-Muellim.jpeg",
+    "tarix": "2026-09-25T12:56:42.401Z"
+  },
+  {
+    "ad": "Sübhan",
+    "soyad": "Namazov",
+    "struktur": "Rəhbərlik",
+    "vezife": "Tədris məsələləri üzrə prorektor",
+    "fayl": "Subhan_Namazov_Rehberlik_Tedris-meseleleri-uzre-prorektor.jpeg",
+    "tarix": "2026-09-25T13:03:43.132Z"
+  },
+  {
+    "ad": "Leyla",
+    "soyad": "Əhmədova",
+    "struktur": "Tədrisin Rəqəmsal İdarəedilməsi",
+    "vezife": "Backend proqramçı",
+    "fayl": "Leyla_Ehmedova_Tedrisin-Reqemsal-Idareedilmesi_Backend-proqramci.jpeg",
+    "tarix": "2026-09-25T13:11:42.165Z"
+  },
+  {
+    "ad": "Natəvan",
+    "soyad": "Babayeva",
+    "struktur": "Tədqiqat,İnkişaf və reputasiya departamentinin,reytinqlər və performans qiymətləndirmələri sektoru",
+    "vezife": "Reytinq performanslarının qiymətləndirilməsi üzrə mütəxəssis",
+    "fayl": "Natevan_Babayeva_TedqiqatInkisaf-ve-reputasiya-departamentininreytinqler-ve-performans-qiymetlendirmeleri-sektoru_Reytinq-performanslarinin-qiymetlendirilmesi-uzre-mutexessis.jpeg",
+    "tarix": "2026-09-25T13:13:18.300Z"
+  },
+  {
+    "ad": "Fatma",
+    "soyad": "Tağıyeva",
+    "struktur": "Tədqiqat, inkişaf və reputasiya departamenti",
+    "vezife": "Akademik inkişaf üzrə mütəxəssis",
+    "fayl": "Fatma_Tagiyeva_Tedqiqat-inkisaf-ve-reputasiya-departamenti_Akademik-inkisaf-uzre-mutexessis.jpeg",
+    "tarix": "2026-09-25T13:18:36.583Z"
+  },
+  {
+    "ad": "Elsən",
+    "soyad": "Manafov",
+    "struktur": "Nəqliyyat texnikası və idarəetmə texnologiyalari",
+    "vezife": "Dosent",
+    "fayl": "Elsen_Manafov_Neqliyyat-texnikasi-ve-idareetme-texnologiyalari_Dosent.jpeg",
+    "tarix": "2026-09-25T13:30:56.543Z"
+  },
+  {
+    "ad": "Samir",
+    "soyad": "Əbilhəsənli",
+    "struktur": "Kibertəhlükəsizlik kafedrası",
+    "vezife": "Müəllim",
+    "fayl": "Samir_Ebilhesenli_Kibertehlukesizlik-kafedrasi_Muellim.jpeg",
+    "tarix": "2026-09-25T14:07:30.754Z"
+  },
+  {
+    "ad": "Elnur",
+    "soyad": "Bağıyev",
+    "struktur": "Xüsusi Texnolgiyalar və avadanlıqlar",
+    "vezife": "Assisent",
+    "fayl": "Elnur_Bagiyev_Xususi-Texnolgiyalar-ve-avadanliqlar_Assisent.jpeg",
+    "tarix": "2026-09-25T14:41:30.367Z"
+  },
+  {
+    "ad": "Sabrina",
+    "soyad": "Eminli",
+    "struktur": "Maşın qayırma texnologiyası",
+    "vezife": "Müəllim",
+    "fayl": "Sabrina_Eminli_Masin-qayirma-texnologiyasi_Muellim.jpeg",
+    "tarix": "2026-09-25T14:42:56.639Z"
+  },
+  {
+    "ad": "Çingiz",
+    "soyad": "Hacızadə",
+    "struktur": "Mühəndis riyaziyyatı və süni intellekt",
+    "vezife": "Müəllim",
+    "fayl": "Cingiz_Hacizade_Muhendis-riyaziyyati-ve-suni-intellekt_Muellim.jpeg",
+    "tarix": "2026-09-25T15:04:37.636Z"
+  },
+  {
+    "ad": "Bəhruz",
+    "soyad": "Cəbrayılov",
+    "struktur": "Mexanika və maşın dizaynı kafedrası",
+    "vezife": "Baş müəllim",
+    "fayl": "Behruz_Cebrayilov_Mexanika-ve-masin-dizayni-kafedrasi_Bas-muellim.jpeg",
+    "tarix": "2026-09-25T15:23:15.396Z"
+  },
+  {
+    "ad": "Orxan",
+    "soyad": "Vətənxah",
+    "struktur": "Beynəlxalq əlaqələr şöbəsi",
+    "vezife": "Direktor",
+    "fayl": "Orxan_Vetenxah_Beynelxalq-elaqeler-sobesi_Direktor.jpeg",
+    "tarix": "2026-09-25T15:23:27.884Z"
+  },
+  {
+    "ad": "Bəhruz",
+    "soyad": "Cəbrayılov",
+    "struktur": "Mexanika və maşın dizaynı kafedrası",
+    "vezife": "Baş müəllim",
+    "fayl": "Behruz_Cebrayilov_Mexanika-ve-masin-dizayni-kafedrasi_Bas-muellim-2.jpeg",
+    "tarix": "2026-09-25T15:24:13.467Z"
+  },
+  {
+    "ad": "Təhminə",
+    "soyad": "Yaqubova",
+    "struktur": "Bir pəncərə",
+    "vezife": "Menecer",
+    "fayl": "Tehmine_Yaqubova_Bir-pencere_Menecer.jpeg",
+    "tarix": "2026-09-25T15:35:19.451Z"
+  },
+  {
+    "ad": "Günel",
+    "soyad": "Məmmədli",
+    "struktur": "Nəqliyyat və logistika dekanlığı",
+    "vezife": "Akademik məsləhətçi",
+    "fayl": "Gunel_Memmedli_Neqliyyat-ve-logistika-dekanligi_Akademik-meslehetci.jpeg",
+    "tarix": "2026-09-25T15:47:05.594Z"
+  },
+  {
+    "ad": "Kənan",
+    "soyad": "Məmmədov",
+    "struktur": "Sənaye mühəndisliyi və davamlı iqtisadiyyat kafedrası",
+    "vezife": "Dosent",
+    "fayl": "Kenan_Memmedov_Senaye-muhendisliyi-ve-davamli-iqtisadiyyat-kafedrasi_Dosent.jpeg",
+    "tarix": "2026-09-25T16:11:15.012Z"
+  },
+  {
+    "ad": "Kənan",
+    "soyad": "Məmmədov",
+    "struktur": "Sənaye mühəndisliyi və davamlı iqtisadiyyat kafedrası",
+    "vezife": "Dosent",
+    "fayl": "Kenan_Memmedov_Senaye-muhendisliyi-ve-davamli-iqtisadiyyat-kafedrasi_Dosent-2.jpeg",
+    "tarix": "2026-09-25T16:12:33.308Z"
+  },
+  {
+    "ad": "Nurlan",
+    "soyad": "Arifzada",
+    "struktur": "Kompüter texnologiyaları kafedrası",
+    "vezife": "Baş müəllim",
+    "fayl": "Nurlan_Arifzada_Komputer-texnologiyalari-kafedrasi_Bas-muellim.jpeg",
+    "tarix": "2026-09-25T17:06:00.229Z"
   }
 ]
